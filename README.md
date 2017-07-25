@@ -19,3 +19,7 @@
 
 Process finished with exit code 130 (interrupted by signal 2: SIGINT)
 </pre>
+
+#### 更新日志
+
+* 增加了redmine API. （redmine api的文档很糟糕~)
